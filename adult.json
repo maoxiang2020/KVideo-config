@@ -325,35 +325,8 @@
     "baseUrl": "https://p2100.net/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "超时/宕机"
-  },
-  {
-    "id": "danaizi",
-    "name": "🔞-大奶子-",
-    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "msnii",
-    "name": "🔞-美少女-",
-    "baseUrl": "https://www.msnii.com/api/json.php",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "kxgav",
-    "name": "🔞白嫖资源",
-    "baseUrl": "https://www.kxgav.com/api/json.php",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
   },
   {
     "id": "dbzy",
@@ -437,6 +410,15 @@
     "_comment": "超时/宕机"
   },
   {
+    "id": "danaizi",
+    "name": "🔞-大奶子-",
+    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
     "id": "senlin",
     "name": "🔞森林资源",
     "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
@@ -462,6 +444,24 @@
     "enabled": false,
     "priority": 130,
     "_comment": "超时/宕机"
+  },
+  {
+    "id": "msnii",
+    "name": "🔞-美少女-",
+    "baseUrl": "https://www.msnii.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "kxgav",
+    "name": "🔞白嫖资源",
+    "baseUrl": "https://www.kxgav.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
   },
   {
     "id": "semao",
